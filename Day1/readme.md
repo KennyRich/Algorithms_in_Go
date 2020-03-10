@@ -2,8 +2,9 @@
 
 This code is implemented using Go programming language
 
-##Day 1
-###Question
+## Day 1
+
+### Question
 Two number sum:
 Write a function that that takes in a non-empty array of distinct
 integers and an integer representing a target sum. If any two numbers
