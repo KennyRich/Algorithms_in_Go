@@ -1,6 +1,3 @@
-# **85 Days of Algorithms**
-
-This code is implemented using Go programming language
 
 ## Day 1
 
